@@ -14,6 +14,8 @@ By default it runs with highst difficulty i.e 8. To play with reduced difficulty
 
 docker run -it gajan1985/chessplay level=1
 
+Press ctrl-c to exit
+
 ### Playing instruction
 In a chess board each row is marked with a number (1-8) and each column is marked with a letter (a-h). 
 
