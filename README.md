@@ -31,4 +31,6 @@ Bishop=B
 
 Pawn=No notation
 
+![board image](/images/screen.png)
+
 You can make a move by entering a command which is a combination of the piece and the destination. For eg to move your Knight from g1 to h3, you can enter Nh3 
