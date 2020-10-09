@@ -13,7 +13,7 @@ docker run -it gajan1985/chessplay
 By default it runs with highst difficulty i.e 8. To play with reduced difficulty, you can run 
 
 docker run -it gajan1985/chessplay level=1
-
+Press Ctrl-Shift + to increase font
 Press ctrl-c to exit
 
 ### Playing instruction
